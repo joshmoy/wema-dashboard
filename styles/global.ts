@@ -5,9 +5,8 @@ export default {
     },
     body: {
       bg: '#fff',
-      color: '#41546c',
       fontSize: '1.4rem',
-      fontFamily: 'Montserrat, sans-serif'
+      fontFamily: 'Inter, sans-serif'
     },
     a: {
       _hover: {
